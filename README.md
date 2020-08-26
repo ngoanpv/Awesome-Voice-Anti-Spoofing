@@ -15,6 +15,6 @@ Please feel free to pull requests or open an issue to add related resources.
 
 
 ## Methods
-- [Feature Learning](Feature Learning) 
-- [Statistical Modeling](Statistical Modeling)
-- [Deep Neural Network (DNN)](Deep Neural Network (DNN))
+- [Feature Learning](#Feature-Learning) 
+- [Statistical Modeling](#Statistical-Modeling)
+- [Deep Neural Network](#Deep-Neural-Network)
