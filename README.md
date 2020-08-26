@@ -6,8 +6,12 @@ Maintainers - [Ngoan Pham](https://github.com/ngoanpv)
 Please feel free to pull requests or open an issue to add related resources.
 
 ## Databases
-|  Name  | Publisher | Release year | Attack |
-|:--------|:--------:|:--------:|:--------:|
+|  Name  | Publisher | Release year | 
+|:--------|:--------:|:--------:|
+|[AVSpoof 2015,2017,2019](https://www.asvspoof.org/)|asvspoof.org|2015,2017,2019|
+|[Voice Spoofing Detection Corpus (VSDC)](http://www.secs.oakland.edu/~mahmood/datasets/audiospoof.html)|oakland.edu|2019|
+
+
 
 
 
